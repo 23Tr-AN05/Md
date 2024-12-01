@@ -13,14 +13,8 @@
  <p id="para5">¡¡¡ À éviter : faire une liste</p>
  <p id="para3">3- Problématiser la question quels sont les problèmes soulevés (au moins 3) par la question ?
  <br> 4- Annonce du plan détaillé (avec des arguments)</p>
- <p id="para4">[Saut de 2 ou 3lignes ]</p>
+ <p id="para4">[Saut de 2 ou 3 lignes ]</p>
 
- <ol>
- <li><p id="para3">Amorce: En quoi la question posée est encore d’actualité ?</p></li>
- <li><p id="para3"> Définitions des mots importants</p><br><p id="para5">¡¡¡ À éviter : faire une liste</p></li>
- <li><p id="para3">Problématiser la question quels sont les problèmes soulevés (au moins 3) par la question ?</p></li>
- <li><p id="para3">Annonce du plan détaillé (avec des arguments)</p></li>
- </ol>
-
+ 
 
  
