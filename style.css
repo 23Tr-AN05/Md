@@ -46,14 +46,19 @@
         color:#00FF00;
     }
     #para9{
-        font-size:20px;
+        font-size:30px;
         text-align:right;
-        color:#000000;
+        color:#00FF00;
     }
      #para10{
-        font-size:20px;
-        text-align:right;
-        color:#FF0000;
+        font-size:30px;
+        text-align:left;
+        color:#000000;
+    }
+     #para11{
+	font-size:30px;
+	text-align:right;
+	color:red;
     }
     mark{
         background-color:yellow;
