@@ -59,8 +59,7 @@
    window.print();
  }
  </script>
- </body>
- </html>
+
 
  
 
