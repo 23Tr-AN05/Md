@@ -25,7 +25,7 @@
  <br>
  <p id="para9">1 ARGUMENT = 1 ALINÉA</p>
  <br>
- <p id="para10"><b>Je rédige une phrase de transition qui ouvre sur la DEUXIÈME GRANDE PARTIE.</b></p>
+ <p id="para10"><b>Je rédige <i>une phrase de transition</i> qui ouvre sur la DEUXIÈME GRANDE PARTIE.</b></p>
  <br>
  <p id="para4">[Saut de 2 ou 3 lignes ]</p>
  <br>
