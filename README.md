@@ -1,6 +1,7 @@
 <head>
  <meta charset="utf-8" />
  <link href="style.css" rel="stylesheet" type="text/css" />
+ <link rel="stylesheet" href="print.css" type="text/css" media="print" />
  </head>
  <body>
  <p id="h1"  style="border: 3px solid red; padding: 20px;">DISSERTATION SUR QUESTION MÉTHODE</p>
@@ -46,10 +47,20 @@
  <p id="para2"  style="border: 2px solid purple; padding: 10px;">[Conclusion]:</p>
  <p id="para3"> Pour rédiger la conclusion, nous faisons un bilan pour chacune des parties.</p>
  <br><br>
+ <form>
+  <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
+ </form>
  <hr>
  <p id="para11"><a href="">Exemple de dissertation</a></p>
  
  <hr> 
+ <script type="text/javascript">
+ function imprimer_page(){
+   window.print();
+ }
+ </script>
+ </body>
+ </html>
 
  
 
