@@ -35,12 +35,12 @@
  <br>Pour rédiger une Deuxième Grande Partie, nous suivons les mêmes étapes que la Première Partie, avec 3 ARGUMENTS / exemples / références philosophiques
  <br>Je rédige une phrase de transition qui ouvre sur la TROISIÈME GRANDE PARTIE.</p>
  <br>
-  <p id="para10"><b>(Je rédige <i>une phrase de transition</i> qui ouvre sur la TROISIÈME GRANDE PARTIE.</b>
+  <p id="para10"><b>(Je rédige <i>une phrase de transition</i> qui ouvre sur la TROISIÈME GRANDE PARTIE.)</b>
  <br>
  <p id="para4">[Saut de 2 ou 3 lignes ]</p>
  <br>
  <p id="para2" style="border: 2px solid pink; padding: 10px;">[III- Solution proposée]:</p>
- <p id="para3">La troisième partie n’est pas obligatoire. Et, certaines sujets ne nécessitent pas une troisième partie.) </p>
+ <p id="para3">La troisième partie n’est pas obligatoire. Et, certaines sujets ne nécessitent pas une troisième partie. </p>
  <p id="para3">Quand nous rédigeons une troisième partie, nous suivons les mêmes étapes que la Première et la Deuxième Partie, avec 3 ARGUMENTS / exemples / références philosophiques.</p>
  <br>
  <p id="para4">[Saut de 2 ou 3 lignes ]</p>
