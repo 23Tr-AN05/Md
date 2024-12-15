@@ -43,11 +43,11 @@
  <p id="para4">[Saut de 2 ou 3 lignes ]</p>
  <br>
  <p id="para2">[Conclusion]:</p>
- <p id="parar3"> Pour rédiger la conclusion, nous faisons un bilan pour chacune des parties.</p>
- <br><br><br>
+ <p id="para3"> Pour rédiger la conclusion, nous faisons un bilan pour chacune des parties.</p>
+ <br><br>
  <hr>
  <p id="para11"><a href="">Exemple de dissertation</a></p>
- <br>
+ 
  <hr> 
 
  
