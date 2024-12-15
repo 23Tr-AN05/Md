@@ -40,7 +40,7 @@
  <p id="para3">La troisième partie n’est pas obligatoire. Et, certaines sujets ne nécessitent pas une troisième partie. </p>
  <p id="para3">Quand nous rédigeons une troisième partie, nous suivons les mêmes étapes que la Première et la Deuxième Partie, avec 3 ARGUMENTS / exemples / références philosophiques.</p>
  <br>
- <br>(Je rédige une phrase de transition qui ouvre sur la TROISIÈME GRANDE PARTIE.)</p>
+ <p id="para10">(Je rédige une phrase de transition qui ouvre sur la TROISIÈME GRANDE PARTIE.)</p>
  <p id="para4">[Saut de 2 ou 3 lignes ]</p>
  <br>
  <p id="para2">[Conclusion]:</p>
