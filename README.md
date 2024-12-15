@@ -52,7 +52,7 @@
   <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
  </form>
  <hr>
- <p id="para11"><a href="">Exemple de dissertation</a></p>
+ <p id="para11"   id="impression"><a href="">Exemple de dissertation</a></p>
  
  <hr> 
  <script type="text/javascript">
